@@ -1,6 +1,6 @@
-# blogrico
+# cardenrico
 
-A new Flutter project.
+Projeto com foco em front-end, contendo informações sobre mim.
 
 ## Getting Started
 
